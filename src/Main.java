@@ -3,6 +3,6 @@ public class Main {
         BmiService service = new BmiService();
         int m = 80;
         double h = 1.95;
-        System.out.println(service.calculate( m, h));
+        System.out.println(service.calculate(m, h));
     }
 }
